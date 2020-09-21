@@ -1135,7 +1135,7 @@ return null;]]></Body>
 						<Condition><![CDATA[true]]></Condition>
 						<Rate Class="CodeUnitValue">
 							<Code><![CDATA[1/MTTF]]></Code>
-							<Unit Class="RateUnits"><![CDATA[PER_HOUR]]></Unit>
+							<Unit Class="RateUnits"><![CDATA[PER_DAY]]></Unit>
 						</Rate>
 						<MessageType><![CDATA[Object]]></MessageType>
 						<DefaultTransition>true</DefaultTransition>
